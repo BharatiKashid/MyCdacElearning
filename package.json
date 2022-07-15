@@ -1,0 +1,22 @@
+{
+  "name": "mycdacelearning",
+  "version": "1.0.0",
+  "description": "please visit my side for more information about CDAC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BharatiKashid/MyCdacElearning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BharatiKashid/MyCdacElearning/issues"
+  },
+  "homepage": "https://github.com/BharatiKashid/MyCdacElearning#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
